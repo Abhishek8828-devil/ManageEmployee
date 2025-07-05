@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="container mt-4 ">
       <div className="d-flex gap-4 justify-content-center align-items-center">
-        <h2>Collaborative Task Manager</h2>
+        <h2>Employee Task Manager</h2>
       </div>
           <div className="d-flex justify-content-center">
   <button
